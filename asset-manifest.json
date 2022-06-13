@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrimba-advanced-react-shop/static/css/main.76fcc1a7.css",
+    "main.js": "/scrimba-advanced-react-shop/static/js/main.a561ea36.js",
+    "index.html": "/scrimba-advanced-react-shop/index.html",
+    "main.76fcc1a7.css.map": "/scrimba-advanced-react-shop/static/css/main.76fcc1a7.css.map",
+    "main.a561ea36.js.map": "/scrimba-advanced-react-shop/static/js/main.a561ea36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76fcc1a7.css",
+    "static/js/main.a561ea36.js"
+  ]
+}
